@@ -15,3 +15,6 @@ LSM9DS0 - iNEMO inertial module:3D accelerometer, 3D gyroscope, 3D magnetometer
 MCP23S09 - 8-Bit I/O Expander with Open-Drain Outputs
 
 MCP23S17 - 16-Bit I/O Expander with Serial Interface
+
+## Nordic
+NRF24L01 - Single Chip 2.4GHz Transceiver
